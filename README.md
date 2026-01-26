@@ -18,7 +18,7 @@ Basic exercises on Python basics
 Javascript exercises and simple functionalities
 
 ### Typescript
-[Typescript example] (https://github.com/Suvimariaw/Typescript-example)
+[Typescript example](https://github.com/Suvimariaw/Typescript-example)
 Typescript exercise what I did in one project
 
 ### Flutterflow
